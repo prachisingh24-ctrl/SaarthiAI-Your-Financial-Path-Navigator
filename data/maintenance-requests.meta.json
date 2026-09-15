@@ -1,0 +1,16 @@
+{
+  "filename": "SIH_ROUND2_DATASET_SAACHI.csv",
+  "sha256": "02a66dd6d6a0593570d07078e356a6daf1ff00bf5302133b3e63df9056462290",
+  "row_count": 1000,
+  "department_counts": {
+    "TRK": 549,
+    "SIG": 292,
+    "TRC": 159
+  },
+  "department_mapping": {
+    "TMS": "TRK",
+    "SMMS": "SIG",
+    "TDMS": "TRC"
+  },
+  "timestamp_timezone": "unspecified"
+}

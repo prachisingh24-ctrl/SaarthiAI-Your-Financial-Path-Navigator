@@ -1,0 +1,8 @@
+{
+  "id": "CONTROL-01",
+  "name": "Main controller",
+  "role": "controller",
+  "department": "ALL",
+  "salt": "8b563cc3b8cf908895cc7b6e86ba3fa7",
+  "password_hash": "6f06e644891c5891056e8b2ad168f1e082be50c8c702b44f52f7958603355547"
+}

@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788704012732,
+      "tag": "0000_volatile_scarlet_witch",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788711514812,
+      "tag": "0001_absurd_black_widow",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788757731299,
+      "tag": "0002_lumpy_marvel_boy",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1788798359312,
+      "tag": "0003_curved_invisible_woman",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1788799881338,
+      "tag": "0004_sweet_zodiak",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+worker_id,name,department_code,department_name,designation,station_code,station_name,shift,availability_status
+W0001,Zubin Deshmukh,TRK,Track,Track Maintainer,CSMT,Chhatrapati Shivaji Maharaj Terminus,C (22:00-06:00),Available
+W0002,Parag Deshmukh,TRK,Track,Senior Section Engineer (P.Way),CSMT,Chhatrapati Shivaji Maharaj Terminus,A (06:00-14:00),Available
+W0003,Rani Kulkarni,TRK,Track,Senior Section Engineer (P.Way),CSMT,Chhatrapati Shivaji Maharaj Terminus,A (06:00-14:00),Available
+W0004,Manoj Ambedkar,TRK,Track,Track Maintainer,CSMT,Chhatrapati Shivaji Maharaj Terminus,A (06:00-14:00),Available
+W0005,Omkar Karve,TRK,Track,Junior Engineer (P.Way),CSMT,Chhatrapati Shivaji Maharaj Terminus,A (06:00-14:00),On Leave
+W0006,Anil Bhagat,TRK,Track,Senior Section Engineer (P.Way),CSMT,Chhatrapati Shivaji Maharaj Terminus,B (14:00-22:00),Available
+W0007,Kiran Shinde,TRK,Track,Permanent Way Inspector,CSMT,Chhatrapati Shivaji Maharaj Terminus,C (22:00-06:00),On Duty
+W0008,Kavita Pawar,SIG,Signal,Senior Section Engineer (Signal),CSMT,Chhatrapati Shivaji Maharaj Terminus,B (14:00-22:00),Available
+W0009,Sanjay Ambedkar,SIG,Signal,Signal Maintainer,CSMT,Chhatrapati Shivaji Maharaj Terminus,C (22:00-06:00),Available
+W0010,Jagdish Bhatt,SIG,Signal,Junior Engineer (Signal),CSMT,Chhatrapati Shivaji Maharaj Terminus,B (14:00-22:00),Available
+W0011,Sunita Kadam,SIG,Signal,Junior Engineer (Signal),CSMT,Chhatrapati Shivaji Maharaj Terminus,A (06:00-14:00),On Duty
+W0012,Ganesh Joshi,SIG,Signal,Junior Engineer (Signal),CSMT,Chhatrapati Shivaji Maharaj Terminus,C (22:00-06:00),Available
+W0013,Vishal Iyer,SIG,Signal,Junior Engineer (Signal),CSMT,Chhatrapati Shivaji Maharaj Terminus,C (22:00-06:00),On Leave
+W0014,Naveen Kale,TRC,Traction,OHE Technician,CSMT,Chhatrapati Shivaji Maharaj Terminus,A (06:00-14:00),On Duty
+W0015,Pradeep Vhora,TRC,Traction,OHE Technician,CSMT,Chhatrapati Shivaji Maharaj Terminus,A (06:00-14:00),On Leave
+W0016,Deepak Bhagat,TRC,Traction,Junior Engineer (TRD),CSMT,Chhatrapati Shivaji Maharaj Terminus,B (14:00-22:00),Available
+W0017,Rajendra Vhora,TRC,Traction,OHE Technician,CSMT,Chhatrapati Shivaji Maharaj Terminus,A (06:00-14:00),On Duty
+W0018,Mahesh Godse,TRC,Traction,Traction Maintainer,CSMT,Chhatrapati Shivaji Maharaj Terminus,A (06:00-14:00),On Duty
+W0019,Sachin Ambedkar,TRC,Traction,OHE Technician,CSMT,Chhatrapati Shivaji Maharaj Terminus,B (14:00-22:00),On Duty
+W0020,Gaurav Verma,TRC,Traction,OHE Technician,CSMT,Chhatrapati Shivaji Maharaj Terminus,B (14:00-22:00),Available
+W0021,Ravi Vhora,TRC,Traction,Traction Maintainer,CSMT,Chhatrapati Shivaji Maharaj Terminus,A (06:00-14:00),On Duty
+W0022,Usha Thakur,TRK,Track,Junior Engineer (P.Way),TNA,Thane,A (06:00-14:00),Available
+W0023,Vandana Bhagat,TRK,Track,Permanent Way Inspector,TNA,Thane,A (06:00-14:00),On Duty
+W0024,Lokesh Rao,TRK,Track,Junior Engineer (P.Way),TNA,Thane,B (14:00-22:00),Available
+W0025,Kalpana Mishra,TRK,Track,Senior Section Engineer (P.Way),TNA,Thane,A (06:00-14:00),Available
+W0026,Shobha Mishra,TRK,Track,Track Maintainer,TNA,Thane,B (14:00-22:00),On Duty
+W0027,Kavita Tiwari,TRK,Track,Permanent Way Inspector,TNA,Thane,A (06:00-14:00),Available
+W0028,Jagdish Kadam,SIG,Signal,Junior Engineer (Signal),TNA,Thane,A (06:00-14:00),Available
+W0029,Gopal Oak,SIG,Signal,Signal Maintainer,TNA,Thane,B (14:00-22:00),On Duty
+W0030,Milind Thakur,SIG,Signal,Signal Inspector,TNA,Thane,B (14:00-22:00),Available
+W0031,Chetan Thakur,SIG,Signal,Signal Maintainer,TNA,Thane,A (06:00-14:00),Available
+W0032,Neha Iyer,SIG,Signal,Senior Section Engineer (Signal),TNA,Thane,A (06:00-14:00),Available
+W0033,Sunil Pawar,SIG,Signal,Signal Maintainer,TNA,Thane,C (22:00-06:00),Available
+W0034,Ashok Kadam,SIG,Signal,Signal Maintainer,TNA,Thane,A (06:00-14:00),On Duty
+W0035,Tushar Salunkhe,SIG,Signal,Senior Section Engineer (Signal),TNA,Thane,C (22:00-06:00),Available
+W0036,Gaurav Phadke,SIG,Signal,Junior Engineer (Signal),TNA,Thane,B (14:00-22:00),Available
+W0037,Devendra Nair,SIG,Signal,Signal Inspector,TNA,Thane,B (14:00-22:00),Available
+W0038,Sandeep Pawar,TRC,Traction,Junior Engineer (TRD),TNA,Thane,C (22:00-06:00),Available
+W0039,Priya Sawant,TRC,Traction,Traction Maintainer,TNA,Thane,A (06:00-14:00),On Leave
+W0040,Imran Kadam,TRC,Traction,Senior Section Engineer (TRD),TNA,Thane,C (22:00-06:00),Available
+W0041,Ramesh Sawant,TRC,Traction,Junior Engineer (TRD),TNA,Thane,C (22:00-06:00),On Duty
+W0042,Krishna Sawant,TRC,Traction,Junior Engineer (TRD),TNA,Thane,A (06:00-14:00),Available
+W0043,Geeta Rathod,TRC,Traction,Junior Engineer (TRD),TNA,Thane,C (22:00-06:00),Available
+W0044,Shobha Yadav,TRK,Track,Junior Engineer (P.Way),KYN,Kalyan Junction,B (14:00-22:00),On Duty
+W0045,Ramesh Rao,TRK,Track,Junior Engineer (P.Way),KYN,Kalyan Junction,B (14:00-22:00),Available
+W0046,Shailesh More,TRK,Track,Junior Engineer (P.Way),KYN,Kalyan Junction,C (22:00-06:00),On Leave
+W0047,Satish Joshi,TRK,Track,Senior Section Engineer (P.Way),KYN,Kalyan Junction,A (06:00-14:00),Available
+W0048,Pooja Gaikwad,TRK,Track,Senior Section Engineer (P.Way),KYN,Kalyan Junction,B (14:00-22:00),Available
+W0049,Tushar Sharma,TRK,Track,Junior Engineer (P.Way),KYN,Kalyan Junction,C (22:00-06:00),Available
+W0050,Yash Joshi,SIG,Signal,Signal Maintainer,KYN,Kalyan Junction,B (14:00-22:00),On Duty
+W0051,Pooja Godse,SIG,Signal,Senior Section Engineer (Signal),KYN,Kalyan Junction,B (14:00-22:00),On Duty
+W0052,Rahul Joshi,SIG,Signal,Signal Inspector,KYN,Kalyan Junction,B (14:00-22:00),Available
+W0053,Arun Kumar,SIG,Signal,Senior Section Engineer (Signal),KYN,Kalyan Junction,A (06:00-14:00),Available
+W0054,Qasim Nair,SIG,Signal,Senior Section Engineer (Signal),KYN,Kalyan Junction,C (22:00-06:00),On Duty
+W0055,Bhaskar More,SIG,Signal,Senior Section Engineer (Signal),KYN,Kalyan Junction,C (22:00-06:00),Available
+W0056,Suresh Sharma,TRC,Traction,Traction Maintainer,KYN,Kalyan Junction,C (22:00-06:00),On Duty
+W0057,Ajay Bhatt,TRC,Traction,Senior Section Engineer (TRD),KYN,Kalyan Junction,A (06:00-14:00),Available
+W0058,Meena Reddy,TRC,Traction,Senior Section Engineer (TRD),KYN,Kalyan Junction,C (22:00-06:00),Available
+W0059,Kiran Chauhan,TRC,Traction,Senior Section Engineer (TRD),KYN,Kalyan Junction,A (06:00-14:00),On Leave
+W0060,Harish Nair,TRC,Traction,OHE Technician,KYN,Kalyan Junction,C (22:00-06:00),Available
+W0061,Pradeep Sawant,TRC,Traction,Traction Maintainer,KYN,Kalyan Junction,B (14:00-22:00),On Duty
+W0062,Shailesh Sharma,TRC,Traction,Senior Section Engineer (TRD),KYN,Kalyan Junction,A (06:00-14:00),Available
+W0063,Umesh Shinde,TRC,Traction,Traction Maintainer,KYN,Kalyan Junction,B (14:00-22:00),Available
+W0064,Ganesh Yadav,TRK,Track,Permanent Way Inspector,LNL,Lonavala,A (06:00-14:00),On Duty
+W0065,Farhan Iyer,TRK,Track,Track Maintainer,LNL,Lonavala,A (06:00-14:00),Available
+W0066,Tushar Kale,TRK,Track,Senior Section Engineer (P.Way),LNL,Lonavala,C (22:00-06:00),Available
+W0067,Gopal Rathod,TRK,Track,Junior Engineer (P.Way),LNL,Lonavala,C (22:00-06:00),On Leave
+W0068,Hemant Tiwari,TRK,Track,Senior Section Engineer (P.Way),LNL,Lonavala,B (14:00-22:00),Available
+W0069,Naveen Thakur,SIG,Signal,Signal Inspector,LNL,Lonavala,B (14:00-22:00),Available
+W0070,Mohan Bhatt,SIG,Signal,Signal Maintainer,LNL,Lonavala,A (06:00-14:00),Available
+W0071,Naveen Chavan,SIG,Signal,Junior Engineer (Signal),LNL,Lonavala,A (06:00-14:00),Available
+W0072,Ajay Nair,SIG,Signal,Senior Section Engineer (Signal),LNL,Lonavala,C (22:00-06:00),On Leave
+W0073,Usha Vhora,SIG,Signal,Senior Section Engineer (Signal),LNL,Lonavala,C (22:00-06:00),On Duty
+W0074,Priya Bhatt,SIG,Signal,Signal Inspector,LNL,Lonavala,B (14:00-22:00),Available
+W0075,Harish Bhosale,SIG,Signal,Signal Maintainer,LNL,Lonavala,C (22:00-06:00),Available
+W0076,Vishal Bhagat,SIG,Signal,Signal Inspector,LNL,Lonavala,B (14:00-22:00),On Duty
+W0077,Lata Gaikwad,SIG,Signal,Junior Engineer (Signal),LNL,Lonavala,C (22:00-06:00),On Leave
+W0078,Ravi Mishra,TRC,Traction,Traction Maintainer,LNL,Lonavala,A (06:00-14:00),Available
+W0079,Anil Singh,TRC,Traction,Junior Engineer (TRD),LNL,Lonavala,A (06:00-14:00),On Duty
+W0080,Krishna Thakur,TRC,Traction,Senior Section Engineer (TRD),LNL,Lonavala,C (22:00-06:00),On Leave
+W0081,Omkar Vhora,TRC,Traction,Junior Engineer (TRD),LNL,Lonavala,A (06:00-14:00),Available
+W0082,Kavita Bhatt,TRC,Traction,Traction Maintainer,LNL,Lonavala,B (14:00-22:00),On Leave
+W0083,Arun Phadke,TRK,Track,Senior Section Engineer (P.Way),PUNE,Pune Junction,A (06:00-14:00),Available
+W0084,Naveen Nair,TRK,Track,Track Maintainer,PUNE,Pune Junction,B (14:00-22:00),On Leave
+W0085,Rani Rao,TRK,Track,Senior Section Engineer (P.Way),PUNE,Pune Junction,A (06:00-14:00),Available
+W0086,Mohan Shinde,TRK,Track,Senior Section Engineer (P.Way),PUNE,Pune Junction,B (14:00-22:00),Available
+W0087,Pooja Naik,TRK,Track,Permanent Way Inspector,PUNE,Pune Junction,C (22:00-06:00),On Duty
+W0088,Yogesh Iyer,TRK,Track,Senior Section Engineer (P.Way),PUNE,Pune Junction,B (14:00-22:00),Available
+W0089,Suresh Tiwari,TRK,Track,Track Maintainer,PUNE,Pune Junction,A (06:00-14:00),Available
+W0090,Farhan Bhagat,TRK,Track,Senior Section Engineer (P.Way),PUNE,Pune Junction,C (22:00-06:00),Available
+W0091,Asha Pawar,TRK,Track,Junior Engineer (P.Way),PUNE,Pune Junction,C (22:00-06:00),Available
+W0092,Usha Kale,TRK,Track,Permanent Way Inspector,PUNE,Pune Junction,C (22:00-06:00),Available
+W0093,Shobha Gaikwad,SIG,Signal,Senior Section Engineer (Signal),PUNE,Pune Junction,C (22:00-06:00),On Duty
+W0094,Ajay Thakur,SIG,Signal,Junior Engineer (Signal),PUNE,Pune Junction,A (06:00-14:00),On Duty
+W0095,Rajesh Kulkarni,SIG,Signal,Junior Engineer (Signal),PUNE,Pune Junction,B (14:00-22:00),Available
+W0096,Arun Salunkhe,SIG,Signal,Junior Engineer (Signal),PUNE,Pune Junction,C (22:00-06:00),Available
+W0097,Yogesh Patil,SIG,Signal,Signal Inspector,PUNE,Pune Junction,A (06:00-14:00),Available
+W0098,Asha Sharma,TRC,Traction,Junior Engineer (TRD),PUNE,Pune Junction,B (14:00-22:00),On Leave
+W0099,Lokesh Bhosale,TRC,Traction,Senior Section Engineer (TRD),PUNE,Pune Junction,A (06:00-14:00),On Leave
+W0100,Sachin Gupta,TRC,Traction,Junior Engineer (TRD),PUNE,Pune Junction,A (06:00-14:00),Available
+W0101,Kalpana Joshi,TRC,Traction,OHE Technician,PUNE,Pune Junction,B (14:00-22:00),Available
+W0102,Pooja Pandey,TRC,Traction,Traction Maintainer,PUNE,Pune Junction,A (06:00-14:00),Available
+W0103,Rakesh Chavan,TRC,Traction,OHE Technician,PUNE,Pune Junction,C (22:00-06:00),Available
+W0104,Suresh Naik,TRC,Traction,Junior Engineer (TRD),PUNE,Pune Junction,C (22:00-06:00),Available
+W0105,Umesh Chavan,TRK,Track,Track Maintainer,DR,Dadar,C (22:00-06:00),On Duty
+W0106,Varun Bhatt,TRK,Track,Senior Section Engineer (P.Way),DR,Dadar,C (22:00-06:00),On Duty
+W0107,Nikhil Verma,TRK,Track,Senior Section Engineer (P.Way),DR,Dadar,A (06:00-14:00),Available
+W0108,Ajay Kadam,TRK,Track,Track Maintainer,DR,Dadar,B (14:00-22:00),On Duty
+W0109,Milind Deshmukh,TRK,Track,Track Maintainer,DR,Dadar,C (22:00-06:00),Available
+W0110,Ganesh Vhora,TRK,Track,Permanent Way Inspector,DR,Dadar,A (06:00-14:00),Available
+W0111,Sanjay Kale,TRK,Track,Track Maintainer,DR,Dadar,C (22:00-06:00),Available
+W0112,Bhaskar Tiwari,TRK,Track,Track Maintainer,DR,Dadar,B (14:00-22:00),Available
+W0113,Neha Mishra,SIG,Signal,Signal Inspector,DR,Dadar,B (14:00-22:00),On Duty
+W0114,Deepak Godse,SIG,Signal,Junior Engineer (Signal),DR,Dadar,A (06:00-14:00),Available
+W0115,Yash Yadav,SIG,Signal,Signal Maintainer,DR,Dadar,C (22:00-06:00),Available
+W0116,Shankar Naik,SIG,Signal,Senior Section Engineer (Signal),DR,Dadar,A (06:00-14:00),Available
+W0117,Devendra Rao,SIG,Signal,Signal Maintainer,DR,Dadar,C (22:00-06:00),Available
+W0118,Devendra Reddy,SIG,Signal,Junior Engineer (Signal),DR,Dadar,B (14:00-22:00),Available
+W0119,Naveen Bhagat,TRC,Traction,Senior Section Engineer (TRD),DR,Dadar,B (14:00-22:00),On Leave
+W0120,Bhaskar Verma,TRC,Traction,Junior Engineer (TRD),DR,Dadar,B (14:00-22:00),Available
+W0121,Mahesh Salunkhe,TRC,Traction,Senior Section Engineer (TRD),DR,Dadar,A (06:00-14:00),Available
+W0122,Imran Tiwari,TRC,Traction,Junior Engineer (TRD),DR,Dadar,A (06:00-14:00),Available
+W0123,Varun Kale,TRC,Traction,Junior Engineer (TRD),DR,Dadar,A (06:00-14:00),On Duty
+W0124,Shobha Vhora,TRC,Traction,OHE Technician,DR,Dadar,B (14:00-22:00),Available
+W0125,Amit Vhora,TRC,Traction,OHE Technician,DR,Dadar,B (14:00-22:00),Available
+W0126,Kalpana Bhosale,TRK,Track,Track Maintainer,BSR,Vasai Road,B (14:00-22:00),Available
+W0127,Vishal Thakur,TRK,Track,Track Maintainer,BSR,Vasai Road,A (06:00-14:00),On Duty
+W0128,Yogesh Tiwari,TRK,Track,Permanent Way Inspector,BSR,Vasai Road,A (06:00-14:00),Available
+W0129,Qasim Kulkarni,TRK,Track,Permanent Way Inspector,BSR,Vasai Road,B (14:00-22:00),On Duty
+W0130,Sunil Rao,TRK,Track,Track Maintainer,BSR,Vasai Road,A (06:00-14:00),On Duty
+W0131,Dinesh Chavan,TRK,Track,Senior Section Engineer (P.Way),BSR,Vasai Road,B (14:00-22:00),Available
+W0132,Sameer Yadav,SIG,Signal,Junior Engineer (Signal),BSR,Vasai Road,B (14:00-22:00),On Duty
+W0133,Varun Thakur,SIG,Signal,Senior Section Engineer (Signal),BSR,Vasai Road,C (22:00-06:00),Available
+W0134,Seema Iyer,SIG,Signal,Senior Section Engineer (Signal),BSR,Vasai Road,C (22:00-06:00),On Duty
+W0135,Devendra Deshmukh,SIG,Signal,Senior Section Engineer (Signal),BSR,Vasai Road,A (06:00-14:00),Available
+W0136,Vishal Reddy,SIG,Signal,Junior Engineer (Signal),BSR,Vasai Road,B (14:00-22:00),On Duty
+W0137,Zubin Tiwari,SIG,Signal,Signal Inspector,BSR,Vasai Road,C (22:00-06:00),Available
+W0138,Chetan Bhagat,SIG,Signal,Signal Inspector,BSR,Vasai Road,A (06:00-14:00),Available
+W0139,Priya Kulkarni,SIG,Signal,Senior Section Engineer (Signal),BSR,Vasai Road,C (22:00-06:00),On Leave
+W0140,Eshan Bhagat,TRC,Traction,Senior Section Engineer (TRD),BSR,Vasai Road,B (14:00-22:00),On Leave
+W0141,Asha Bhatt,TRC,Traction,Senior Section Engineer (TRD),BSR,Vasai Road,C (22:00-06:00),Available
+W0142,Rakesh Singh,TRC,Traction,Junior Engineer (TRD),BSR,Vasai Road,C (22:00-06:00),Available
+W0143,Mohan Kadam,TRC,Traction,Junior Engineer (TRD),BSR,Vasai Road,C (22:00-06:00),Available
+W0144,Suresh Chauhan,TRC,Traction,OHE Technician,BSR,Vasai Road,B (14:00-22:00),On Duty
+W0145,Neha Salunkhe,TRC,Traction,Junior Engineer (TRD),BSR,Vasai Road,B (14:00-22:00),On Duty
+W0146,Eshan Rao,TRC,Traction,Junior Engineer (TRD),BSR,Vasai Road,A (06:00-14:00),Available
+W0147,Lata Thakur,TRK,Track,Junior Engineer (P.Way),IGP,Igatpuri,B (14:00-22:00),On Leave
+W0148,Suresh Jadhav,TRK,Track,Track Maintainer,IGP,Igatpuri,B (14:00-22:00),On Duty
+W0149,Bhaskar Karve,TRK,Track,Junior Engineer (P.Way),IGP,Igatpuri,A (06:00-14:00),Available
+W0150,Imran Nair,TRK,Track,Junior Engineer (P.Way),IGP,Igatpuri,A (06:00-14:00),On Duty
+W0151,Geeta Chavan,TRK,Track,Senior Section Engineer (P.Way),IGP,Igatpuri,C (22:00-06:00),On Leave
+W0152,Prakash Nair,SIG,Signal,Signal Maintainer,IGP,Igatpuri,C (22:00-06:00),On Duty
+W0153,Amit Jadhav,SIG,Signal,Senior Section Engineer (Signal),IGP,Igatpuri,C (22:00-06:00),On Leave
+W0154,Yash Naik,SIG,Signal,Senior Section Engineer (Signal),IGP,Igatpuri,C (22:00-06:00),Available
+W0155,Wasim Bhatt,SIG,Signal,Signal Maintainer,IGP,Igatpuri,A (06:00-14:00),Available
+W0156,Imran Karve,SIG,Signal,Senior Section Engineer (Signal),IGP,Igatpuri,B (14:00-22:00),Available
+W0157,Rajendra Sharma,SIG,Signal,Signal Maintainer,IGP,Igatpuri,C (22:00-06:00),Available
+W0158,Sunita Rao,SIG,Signal,Junior Engineer (Signal),IGP,Igatpuri,C (22:00-06:00),On Duty
+W0159,Ganesh Godse,TRC,Traction,Senior Section Engineer (TRD),IGP,Igatpuri,C (22:00-06:00),Available
+W0160,Seema Naik,TRC,Traction,Traction Maintainer,IGP,Igatpuri,A (06:00-14:00),Available
+W0161,Yash Chauhan,TRC,Traction,Traction Maintainer,IGP,Igatpuri,B (14:00-22:00),Available
+W0162,Shanti Kadam,TRC,Traction,Senior Section Engineer (TRD),IGP,Igatpuri,B (14:00-22:00),Available
+W0163,Vishal Chauhan,TRC,Traction,Junior Engineer (TRD),IGP,Igatpuri,C (22:00-06:00),Available
+W0164,Amit Reddy,TRC,Traction,Traction Maintainer,IGP,Igatpuri,A (06:00-14:00),Available
+W0165,Shobha Nair,TRK,Track,Senior Section Engineer (P.Way),NK,Nashik Road,B (14:00-22:00),On Duty
+W0166,Yogesh Pawar,TRK,Track,Junior Engineer (P.Way),NK,Nashik Road,C (22:00-06:00),Available
+W0167,Geeta Vhora,TRK,Track,Junior Engineer (P.Way),NK,Nashik Road,C (22:00-06:00),Available
+W0168,Rajendra Chavan,TRK,Track,Junior Engineer (P.Way),NK,Nashik Road,A (06:00-14:00),Available
+W0169,Rani Deshmukh,TRK,Track,Track Maintainer,NK,Nashik Road,A (06:00-14:00),Available
+W0170,Sameer Shinde,TRK,Track,Track Maintainer,NK,Nashik Road,A (06:00-14:00),Available
+W0171,Kavita Sawant,SIG,Signal,Signal Inspector,NK,Nashik Road,A (06:00-14:00),Available
+W0172,Kalpana Kadam,SIG,Signal,Junior Engineer (Signal),NK,Nashik Road,B (14:00-22:00),Available
+W0173,Amit Joshi,SIG,Signal,Junior Engineer (Signal),NK,Nashik Road,A (06:00-14:00),Available
+W0174,Harish Naik,SIG,Signal,Signal Inspector,NK,Nashik Road,A (06:00-14:00),Available
+W0175,Bhaskar Yadav,SIG,Signal,Junior Engineer (Signal),NK,Nashik Road,C (22:00-06:00),On Leave
+W0176,Rekha Bhosale,SIG,Signal,Junior Engineer (Signal),NK,Nashik Road,C (22:00-06:00),On Duty
+W0177,Ramesh Chauhan,SIG,Signal,Senior Section Engineer (Signal),NK,Nashik Road,C (22:00-06:00),On Duty
+W0178,Anil Salunkhe,TRC,Traction,Traction Maintainer,NK,Nashik Road,B (14:00-22:00),Available
+W0179,Manoj Tiwari,TRC,Traction,Senior Section Engineer (TRD),NK,Nashik Road,C (22:00-06:00),Available
+W0180,Shailesh Gaikwad,TRC,Traction,Junior Engineer (TRD),NK,Nashik Road,B (14:00-22:00),Available
+W0181,Tushar Patil,TRC,Traction,Junior Engineer (TRD),NK,Nashik Road,C (22:00-06:00),On Duty
+W0182,Sameer Rao,TRC,Traction,Junior Engineer (TRD),NK,Nashik Road,A (06:00-14:00),On Duty
+W0183,Rajendra Kulkarni,TRC,Traction,Traction Maintainer,NK,Nashik Road,A (06:00-14:00),Available
+W0184,Rajesh Naik,TRK,Track,Senior Section Engineer (P.Way),SUR,Solapur,C (22:00-06:00),Available
+W0185,Sameer Nair,TRK,Track,Permanent Way Inspector,SUR,Solapur,C (22:00-06:00),Available
+W0186,Pooja Thakur,TRK,Track,Senior Section Engineer (P.Way),SUR,Solapur,A (06:00-14:00),Available
+W0187,Zubin Patil,TRK,Track,Junior Engineer (P.Way),SUR,Solapur,C (22:00-06:00),Available
+W0188,Prakash Kulkarni,TRK,Track,Permanent Way Inspector,SUR,Solapur,C (22:00-06:00),Available
+W0189,Ashok Chauhan,TRK,Track,Junior Engineer (P.Way),SUR,Solapur,C (22:00-06:00),On Leave
+W0190,Anita Mishra,SIG,Signal,Senior Section Engineer (Signal),SUR,Solapur,B (14:00-22:00),Available
+W0191,Mohan Rathod,SIG,Signal,Signal Maintainer,SUR,Solapur,B (14:00-22:00),Available
+W0192,Nikhil Rao,SIG,Signal,Junior Engineer (Signal),SUR,Solapur,B (14:00-22:00),On Duty
+W0193,Pooja Iyer,SIG,Signal,Senior Section Engineer (Signal),SUR,Solapur,A (06:00-14:00),Available
+W0194,Pradeep Reddy,SIG,Signal,Senior Section Engineer (Signal),SUR,Solapur,B (14:00-22:00),Available
+W0195,Shankar Pandey,SIG,Signal,Senior Section Engineer (Signal),SUR,Solapur,C (22:00-06:00),On Duty
+W0196,Zubin Nair,SIG,Signal,Signal Maintainer,SUR,Solapur,A (06:00-14:00),Available
+W0197,Shobha Iyer,SIG,Signal,Junior Engineer (Signal),SUR,Solapur,A (06:00-14:00),On Duty
+W0198,Shobha Shinde,TRC,Traction,Traction Maintainer,SUR,Solapur,A (06:00-14:00),Available
+W0199,Parag Yadav,TRC,Traction,Traction Maintainer,SUR,Solapur,B (14:00-22:00),Available
+W0200,Anita Iyer,TRC,Traction,Junior Engineer (TRD),SUR,Solapur,C (22:00-06:00),On Leave
+W0201,Prakash Phadke,TRC,Traction,Junior Engineer (TRD),SUR,Solapur,A (06:00-14:00),Available
+W0202,Vishal Chavan,TRC,Traction,Traction Maintainer,SUR,Solapur,A (06:00-14:00),On Leave
+W0203,Vijay Phadke,TRC,Traction,Senior Section Engineer (TRD),SUR,Solapur,A (06:00-14:00),On Duty
